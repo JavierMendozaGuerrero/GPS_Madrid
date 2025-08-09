@@ -1,4 +1,4 @@
-# Práctica 3: GPS
+# GPS Madrid
 
 ## Introducción
 
