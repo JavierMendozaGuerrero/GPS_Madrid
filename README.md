@@ -10,7 +10,7 @@ El módulo `gps.py` utiliza dos librerías adicionales:
 
 Se identificaron 441 componentes fuertemente conexas en el grafo dirigido de Madrid, siendo la componente más grande de 30,481 nodos. Esto garantiza accesibilidad entre nodos dentro de esa componente principal.
 
-![Captura del sistema GPS](images/captura_gps.png)
+![Captura del sistema GPS](imagenes/captura_gps.png)
 
 ---
 
